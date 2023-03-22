@@ -1,0 +1,21 @@
+#confidentialite {
+    margin-bottom: 50xp;
+}
+span {
+    padding: 0 5px;
+}
+li {
+    padding: 0 5px;
+}
+
+#languedevise {
+    float: right;
+    font-weight : 600;
+}
+
+a:hover {
+    text-decoration: underline;
+  }     
+
+
+
